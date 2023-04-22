@@ -1,5 +1,5 @@
 # ikcu.pythonhomeWork
-Murat Merdoğan Python Ödev
+Murat Merdoğan tarafında Python Programlama Dersi Ödevi için hazırlanmıştır.
 
 
 Bu proje Python Programlama dersi ödevi için hazırlanmıştır.
